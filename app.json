@@ -9,7 +9,7 @@
     "splash": {
       "image": "./src/assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0587ff"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -36,7 +36,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+          "locationAlwaysAndWhenInUsePermission": "Allow Weather App to use your location."
         }
       ]
     ]
